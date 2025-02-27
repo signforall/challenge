@@ -1,9 +1,6 @@
 ---
-layout: index
-title: Saudi Sign Language Competetion
-description: IEEE Competetion from SDAIA 
+layout: default
 ---
-
 
 
 ## Introduction
