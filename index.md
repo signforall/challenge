@@ -15,6 +15,8 @@ Participants will develop models to translate SSL signs into text. There are thr
 - **Track 2 - Model Generalization on Unseen Sentences**: Recognize SSL signs performed by seen signers, but with unseen sentences.
 - **Track 3 - Model Generalization on Unseen Signers and Sentences**: Recognize SSL signs performed by fully unseen signers and sentences.
 
+**BLEU score is the accepted evaluation metric, using the SacreBLEU library.**
+
 ## Base Line Results:
 The results from training the model on T5 variant models on the pose features are shown in the table below:  
 <html lang="en">
@@ -249,9 +251,8 @@ The improvement suggests that incorporating domain-specific data during pre-trai
 </html>
 
 
-## Training Code
-The training code can be found in blah blah, 
-
+## Results Replication 
+To replicate our results you need to use... 
 ## Submission Guidelines
 Submit predictions on unseen singers and sentences. 
 
