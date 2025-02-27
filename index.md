@@ -16,7 +16,7 @@ Participants will develop models to translate SSL signs into text. There are thr
 - **Track 3 - Model Generalization on Unseen Signers and Sentences**: Recognize SSL signs performed by fully unseen signers and sentences.
 
 ## Base Line Results:
-The results show that fine-tuning on pretrained checkpoints significantly improves model performance, as indicated by higher BLEU scores across all test sets. 
+The results from training the model on T5 variant models on the pose features are shown in the table below:  
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -148,6 +148,7 @@ The results show that fine-tuning on pretrained checkpoints significantly improv
     </tbody>
   </table>
 
+The results show that fine-tuning on pretrained checkpoints significantly improves model performance, as indicated by higher BLEU scores across all test sets. 
 The improvement suggests that incorporating domain-specific data during pre-training helps enhance the model's generalization ability. Models fine-tuned on pretrained checkpoints perform better, especially on unseen data, highlighting the benefits of such an approach. For a more detailed comparison, please refer to the baseline paper.
 
 
