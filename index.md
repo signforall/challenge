@@ -256,7 +256,7 @@ The training code can be found in blah blah,
 Submit predictions on unseen singers and sentences. 
 
 ## License and Citation
-Please cite the following paper when using this dataset:
+Please cite the following paper for this challenge:
 ```bibtex
 @inproceedings{ssl2025,
     title={Saudi Sign Language Dataset and Its Application for Translation Using Pretrained T5 Models},
