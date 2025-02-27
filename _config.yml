@@ -1,25 +1,3 @@
-title: SSL
-description: Saudi SLL Competetion
-baseurl: /jekyll-nagymaros
-url: https://piazzai.github.io
-
-permalink: pretty
-theme: jekyll-nagymaros
-
-home: /
-copyright: Place Holder
-indexing: true
-
-exclude:
-  - LICENSE
-  - README.md
-  - Gemfile
-  - vendor/
-
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-sass:
-  sourcemap: never
-  
+- jekyll-remote-theme # add this line to the plugins list if you already have one
