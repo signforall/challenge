@@ -6,7 +6,7 @@ layout: default
 # Saudi Sign Language (SSL) Challenge
 
 ## Overview
-Welcome to the Saudi Sign Language (SSL) Challenge, organized by IEEE in collaboration with SDAIA and KFUPM. This competition focuses on advancing sign language recognition for SSL by addressing challenges like unseen signers, unseen sentences, and face-covering conditions.
+Welcome to the Saudi Sign Language (SSL) Challenge. This competition focuses on advancing sign language recognition for SSL by addressing challenges like unseen signers, unseen sentences, and face-covering conditions.
 
 ## Task Description
 Participants will develop models to translate SSL signs into text. There are three tracks:
