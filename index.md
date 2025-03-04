@@ -59,9 +59,6 @@ The results from training the model on T5 variant models on the pose features ar
       font-weight: bold;
     }
   </style>
-</head>
-<body>
-</head>
 <body>
   <table>
     <thead>
