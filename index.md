@@ -18,45 +18,45 @@ Participants will develop models to translate SSL signs into text. There are thr
 ## Base Line Results:
 The results from training the model on T5 variant models on the pose features are shown in the table below:  
 
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Styled List</title>
+  <title>Styled Table</title>
   <style>
-    body {
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
       font-family: Arial, sans-serif;
-      margin: 20px;
     }
-    .list-container {
-      background-color: #f9f9f9;
+
+    th, td {
       border: 1px solid #ddd;
-      padding: 15px;
-      border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      padding: 8px 12px;
+      text-align: center;
     }
-    h2 {
-      color: #4CAF50;
-      font-size: 24px;
-      margin-bottom: 10px;
+
+    th {
+      background-color: #4CAF50;
+      color: white;
     }
-    ul {
-      list-style-type: none;
-      padding-left: 20px;
+
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
     }
-    li {
-      font-size: 16px;
-      line-height: 1.6;
+
+    tr:hover {
+      background-color: #ddd;
     }
-    li::before {
-      content: "• ";
-      color: #4CAF50;
-    }
-    .sub-list {
-      margin-left: 20px;
+
+    td {
       font-size: 14px;
-      color: #555;
+    }
+
+    th {
+      font-size: 16px;
+      font-weight: bold;
     }
   </style>
 </head>
