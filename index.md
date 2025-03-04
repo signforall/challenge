@@ -259,7 +259,7 @@ Please cite the paper for this challenge once published.
 Creative Commons Attribution-NonCommercial (CC BY-NC)
 
 ## Contact
-For questions, contact:  
+For questions use the following contact email:  
 Email: [signforall@googlegroups.com](signforall@googlegroups.com)
 
 
