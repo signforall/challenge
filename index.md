@@ -257,7 +257,7 @@ To replicate our results you need to use...
 ## Citation
 Please cite the paper for this challenge once published.
 
-## Licence
+## licence
 Creative Commons Attribution-NonCommercial (CC BY-NC)
 
 ## Contact
