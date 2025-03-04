@@ -18,6 +18,7 @@ Participants will develop models to translate SSL signs into text. There are thr
 ## Base Line Results:
 The results from training the model on T5 variant models on the pose features are shown in the table below:  
 
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -30,35 +31,30 @@ The results from training the model on T5 variant models on the pose features ar
       margin: 20px 0;
       font-family: Arial, sans-serif;
     }
-
     th, td {
       border: 1px solid #ddd;
       padding: 8px 12px;
       text-align: center;
     }
-
     th {
       background-color: #4CAF50;
       color: white;
     }
-
     tr:nth-child(even) {
       background-color: #f2f2f2;
     }
-
     tr:hover {
       background-color: #ddd;
     }
-
     td {
       font-size: 14px;
     }
-
     th {
       font-size: 16px;
       font-weight: bold;
     }
   </style>
+</head>
 <body>
   <table>
     <thead>
