@@ -11,16 +11,30 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <style>
-      .header-image {
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        max-height: 80px;
-        width: auto;
-      }
       .page-header {
         position: relative;
-        padding: 2rem 1rem;
+        padding: 4rem 1rem;
+        background-size: cover;
+        background-position: center;
+        background-image: url('ssl.png');
+        overflow: hidden;
+      }
+      
+      .page-header:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0,0,0,0.3); /* Optional overlay */
+      }
+      
+      .project-name,
+      .project-tagline,
+      .btn {
+        position: relative;
+        z-index: 1;
       }
     </style>
   </head>
@@ -28,7 +42,6 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <img src="ssl.png" alt="Header Image" class="header-image">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
