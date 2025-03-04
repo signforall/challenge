@@ -3,9 +3,8 @@ layout: default
 ---
 
 
-# Saudi Sign Language (SSL) Challenge
+# The SignforAll 2025 Challenge
 
-## Overview
 Welcome to The SignforAll 2025 Challenge, showcasing the Saudi Sign Language (SSL). This competition is dedicated to advancing SSL sign language recognition by addressing key challenges, including the recognition of signs from unseen signers, unseen sentence, and conditions involving face coverings from the SSL dataset.
 ## Task Description
 Participants will develop models to translate SSL signs into text. There are three tracks:
