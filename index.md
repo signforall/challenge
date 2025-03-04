@@ -256,20 +256,11 @@ To replicate our results you need to use...
 Submit predictions on unseen singers and sentences. 
 
 ## License and Citation
-Please cite the following paper for this challenge:
-```bibtex
-@inproceedings{ssl2025,
-    title={Saudi Sign Language Dataset and Its Application for Translation Using Pretrained T5 Models},
-    author={Author Names},
-    year={2025},
-    journal={IEEE},
-    publisher={IEEE},
-}
-```
+Please cite the following paper for this challenge
 
 ## Contact
 For questions, contact:  
-Email: [SSL@sdaia.gov.sa](mailto:SSL@sdaia.gov.sa)
+Email: [signforall@googlegroups.com](signforall@googlegroups.com)
 
 
 <html lang="en">
