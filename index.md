@@ -251,11 +251,9 @@ The improvement suggests that incorporating domain-specific data during pre-trai
 
 ## Results Replication 
 To replicate our results you need to use... 
-## Submission Guidelines
-Submit predictions on unseen singers and sentences. 
 
 ## Citation
-Please cite the following paper for this challenge
+Please cite the paper for this challenge once published.
 
 ## Licence
 Creative Commons Attribution-NonCommercial (CC BY-NC)
