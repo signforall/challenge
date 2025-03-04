@@ -255,8 +255,11 @@ To replicate our results you need to use...
 ## Submission Guidelines
 Submit predictions on unseen singers and sentences. 
 
-## License and Citation
+## Citation
 Please cite the following paper for this challenge
+
+## Licence
+Creative Commons Attribution-NonCommercial (CC BY-NC)
 
 ## Contact
 For questions, contact:  
