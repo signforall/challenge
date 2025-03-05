@@ -252,7 +252,12 @@ The improvement suggests that incorporating domain-specific data during pre-trai
 
 
 ## Results Replication 
-To replicate our results you need to use... 
+
+To replicate our results, please follow the steps outlined in our GitHub repository.
+
+You can access the repository via the following link:
+
+[GitHub Repository](https://github.com/signforall/t5-training-scripts)
 
 ## Citation
 Please cite the paper for this challenge once published.
