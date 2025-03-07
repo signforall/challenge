@@ -251,7 +251,7 @@ The improvement suggests that incorporating domain-specific data during pre-trai
 </html>
 
 
-## Results Replication 
+## Baseline 
 
 To replicate our results, please follow the steps outlined in our GitHub repository.
 
@@ -259,15 +259,32 @@ You can access the repository via the following link:
 
 [GitHub Repository](https://github.com/signforall/t5-training-scripts)
 
-## Citation
-Please cite the paper for this challenge once published.
+## Important Dates
 
-## licence
+- ** 📅 Release train data: March 10, 2025 **
+- ** 📅 Release test data: April 28, 2025 **
+- ** 📅 Release eval results: May 1, 2025 ** 
+- ** 📅 Paper Submission Deadline: May 10, 2025 **
+- ** 📅 Notification of Acceptance: June 24, 2025 **
+- ** 📅 Camera-Ready Submission: July 15, 2025 **
+
+
+## Licence
 Creative Commons Attribution-NonCommercial (CC BY-NC)
 
 ## Contact
 For questions use the following contact email:  
 Email: [signforall@googlegroups.com](signforall@googlegroups.com)
+
+## Organizers 
+
+- **Ali Alhejab - SDAIA, Riyadh, Saudi Arabia **
+- **Lamya Alkanhal - SDAIA, Riyadh, Saudi Arabia **
+- **Tomas Zelezny - University of West Bohemia, Pilsen **
+- **Jakub Straka - University of West Bohemia, Pilsen **
+- **Badria Almutaani- SDAIA, Riyadh, Saudi Arabia **
+- **Yazeed Alharbi - SDAIA, Riyadh, Saudi Arabia **
+- **Ahmed Ali - SDAIA, Riyadh, Saudi Arabia **
 
 
 <html lang="en">
