@@ -264,12 +264,12 @@ You can access the repository via the following link:
 
 ## Important Dates
 
-- ** 📅 Release train data: March 10, 2025 **
-- ** 📅 Release test data: April 28, 2025 **
-- ** 📅 Release eval results: May 1, 2025 ** 
-- ** 📅 Paper Submission Deadline: May 10, 2025 **
-- ** 📅 Notification of Acceptance: June 24, 2025 **
-- ** 📅 Camera-Ready Submission: July 15, 2025 **
+-  📅 Release train data: March 10, 2025
+-  📅 Release test data: April 28, 2025 
+-  📅 Release eval results: May 1, 2025  
+-  📅 Paper Submission Deadline: May 10, 2025 
+-  📅 Notification of Acceptance: June 24, 2025 
+-  📅 Camera-Ready Submission: July 15, 2025 
 
 
 ## Licence
@@ -281,13 +281,13 @@ Email: [signforall@googlegroups.com](signforall@googlegroups.com)
 
 ## Organizers 
 
-- **Ali Alhejab - SDAIA, Riyadh, Saudi Arabia **
-- **Lamya Alkanhal - SDAIA, Riyadh, Saudi Arabia **
-- **Tomas Zelezny - University of West Bohemia, Pilsen **
-- **Jakub Straka - University of West Bohemia, Pilsen **
-- **Badria Almutaani- SDAIA, Riyadh, Saudi Arabia **
-- **Yazeed Alharbi - SDAIA, Riyadh, Saudi Arabia **
-- **Ahmed Ali - SDAIA, Riyadh, Saudi Arabia **
+- Ali Alhejab - SDAIA, Riyadh, Saudi Arabia 
+- Lamya Alkanhal - SDAIA, Riyadh, Saudi Arabia 
+- Tomas Zelezny - University of West Bohemia, Pilsen 
+- Jakub Straka - University of West Bohemia, Pilsen 
+- Badria Almutaani- SDAIA, Riyadh, Saudi Arabia 
+- Yazeed Alharbi - SDAIA, Riyadh, Saudi Arabia 
+- Ahmed Ali - SDAIA, Riyadh, Saudi Arabia 
 
 
 <html lang="en">
