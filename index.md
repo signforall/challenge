@@ -2,10 +2,13 @@
 layout: default
 ---
 
-
 # The SignforAll 2025 Challenge
+The SignforAll 2025 will be featured in the IEEE International Workshop on Machine Learning for Signal Processing [(MLSP) 2025](https://2025.ieeemlsp.org/en/default.asp). The shared task will be part of the Sign Language Translation in the era of Large Language Model - Beyond English [special session](https://2025.ieeemlsp.org/en/SPECIAL-SESSIONS.html)
+This special session addresses sign language translation challenges at the intersection of AI and accessibility, introducing a novel dataset co-developed with sign language users and interpreters. The session will provide a setup to discuss the generalization capabilities of sign language translation models, addressing a fundamental limitation in the field.
 
-Welcome to The SignforAll 2025 Challenge, showcasing the Saudi Sign Language (SSL). This competition is dedicated to advancing SSL sign language recognition by addressing key challenges, including the recognition of signs from unseen signers, unseen sentence, and conditions involving face coverings from the SSL dataset.
+## The Saudi Sign Language Shared Task 
+The Saudi Sign Language (SSL) aims to advance sign language recognition by addressing key challenges, including recognizing signs from unseen signers, unseen sentences, and conditions involving face coverings in the SSL dataset.
+
 ## Task Description
 Participants will develop models to translate SSL signs into text. There are three tracks:
 
