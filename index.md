@@ -256,7 +256,7 @@ The improvement suggests that incorporating domain-specific data during pre-trai
 
 ## Baseline 
 
-To replicate our results, please follow the steps outlined in our GitHub repository.
+To replicate our pipeline, please check [Kaggle web page](https://www.kaggle.com/competitions/ssl-competetion/)
 
 You can access the repository via the following link:
 
@@ -265,7 +265,6 @@ You can access the repository via the following link:
 ## Important Dates
 
 -  📅 Release train data: March 10, 2025
--  📅 Release test data: April 28, 2025 
 -  📅 Release eval results: May 1, 2025  
 -  📅 Paper Submission Deadline: May 10, 2025 
 -  📅 Notification of Acceptance: June 24, 2025 
@@ -285,7 +284,9 @@ Email: [signforall@googlegroups.com](signforall@googlegroups.com)
 - Lamya Alkanhal - SDAIA, Riyadh, Saudi Arabia 
 - Tomas Zelezny - University of West Bohemia, Pilsen 
 - Jakub Straka - University of West Bohemia, Pilsen 
-- Badria Almutaani- SDAIA, Riyadh, Saudi Arabia 
+- Badria Almutaani- SDAIA, Riyadh, Saudi Arabia
+- Ivan Gruber - University of West Bohemia, Pilsen
+- Marek Hruz - University of West Bohemia, Pilsen
 - Yazeed Alharbi - SDAIA, Riyadh, Saudi Arabia 
 - Ahmed Ali - SDAIA, Riyadh, Saudi Arabia 
 
