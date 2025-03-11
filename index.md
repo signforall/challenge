@@ -256,7 +256,7 @@ The improvement suggests that incorporating domain-specific data during pre-trai
 
 ## Baseline 
 
-To replicate our pipeline, please check [Kaggle web page](https://www.kaggle.com/competitions/ssl-competetion/)
+To replicate our pipeline, please check [Kaggle web page](https://www.kaggle.com/t/f55d270c50ce469da7e3f59a2247007e)
 
 You can access the repository via the following link:
 
