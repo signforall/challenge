@@ -62,6 +62,8 @@ The results from training the model on T5 variant models on the pose features ar
   <table>
     <thead>
       <tr>
+        <th colspan="13"><strong>Baseline results, trained on SSL only</strong></th>
+      <tr>
         <th></th>
         <th colspan="4"><strong>Test-1</strong></th>
         <th colspan="4"><strong>Test-2</strong></th>
@@ -159,6 +161,9 @@ The improvement suggests that incorporating domain-specific data during pre-trai
 
   <table>
     <thead>
+      <tr>
+        <th colspan="13"><strong>Baseline results, pre-trained on YouTubeASL and fine-tuned on SSL</strong></th>
+      <tr>
       <tr>
         <th></th>
         <th colspan="4"><strong>Test-1</strong></th>
