@@ -287,6 +287,11 @@ Email: [signforall@googlegroups.com](signforall@googlegroups.com)
 - Badria Almutaani- SDAIA, Riyadh, Saudi Arabia
 - Ivan Gruber - University of West Bohemia, Pilsen
 - Marek Hruz - University of West Bohemia, Pilsen
+- Hamzah Luqman, KFUPM, Saudi Arabia 
+- Maad Alowaifeer, KFUPM, Saudi Arabia 
+- Sarah Alyami, KFUPM, Saudi Arabia 
+- Sadam Al-Azani, KFUPM, Saudi Arabia 
+- Sarah Alyami, KFUPM, Saudi Arabia  
 - Yazeed Alharbi - SDAIA, Riyadh, Saudi Arabia 
 - Ahmed Ali - SDAIA, Riyadh, Saudi Arabia 
 
